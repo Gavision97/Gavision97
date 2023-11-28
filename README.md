@@ -15,7 +15,7 @@ I'm Victor, a third-year Software and Information System Engineering student at 
 - 🤖 Machine Learning | Deep Learning | Computer Vision
 - 📊 Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
 - 🛠️ Machine Learning Libraries: Scikit-learn, PyTorch
-- 📷 Computer Vision: OpenCV
+- 📷 Computer Vision: OpenCV, YOLOV8
 - 🛠️ Git | Docker | Jupyter Notebooks/lab | Google Collab
 
 ## Connect with Me
